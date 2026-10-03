@@ -12,7 +12,6 @@ OctoAcme uses a customer-first, iterative, and data-informed approach to cross-f
 
 Risk management and communication run throughout the lifecycle: maintain a risk register, track dependencies, share status updates, and escalate blockers through the documented paths. Project Managers coordinate delivery, Product Managers define outcomes and priorities, and Developers implement and test changes, supported by QA and stakeholders.
 
-
 ## Process documentation links
 
 - [Project Management Overview](./octoacme-project-management-overview.md) — Principles, roles, artifacts, lifecycle, and communication cadence.
